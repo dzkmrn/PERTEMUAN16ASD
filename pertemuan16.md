@@ -484,10 +484,7 @@ public class mahasiswa {
 
 ```java
 package Tugas2;
-/**
-*
-* @author Alvian
-*/
+   
 public class mataKuliah {
     String kodeMk, namaMk;
     int sks;
